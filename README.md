@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on Data Science field
-- 📫 How to reach me ... email - annesssutarpp102@gmail.com
+- 📫 How to reach me ... email - annesasutarpp102@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
